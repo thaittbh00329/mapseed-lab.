@@ -1,0 +1,13 @@
+strategy,fault,trials_detected,trials_total
+uniform,short-row,31,48
+uniform,open-border,37,48
+uniform,absent-exit,12,48
+uniform,isolated-exit,37,48
+uniform,unknown-tile,26,48
+uniform,extra-spawn,19,48
+hybrid,short-row,48,48
+hybrid,open-border,48,48
+hybrid,absent-exit,48,48
+hybrid,isolated-exit,48,48
+hybrid,unknown-tile,48,48
+hybrid,extra-spawn,19,48
